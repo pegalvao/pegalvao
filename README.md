@@ -4,7 +4,7 @@ Analista de Suporte migrando pra **QA** — testes manuais, testes de API e auto
 
 - 🔭 Atualmente construindo um portfólio de automação de testes E2E (OrangeHRM)
 - 🌱 Aprendendo pentest, MFA e os fundamentos da tríade CIA
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/pedro-h-evaristo-galv%C3%A3o-71a727216/) · [E-mail](mailto:galvaoevaristo@gmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/pedro-evaristo-71a727216/) · [E-mail](mailto:galvaoevaristo@gmail.com)
 
 ---
 
