@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Pedro 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=2EAD33&center=true&vCenter=true&width=520&lines=Quality+Assurance+%C2%B7+Automa%C3%A7%C3%A3o+de+testes;Playwright+%2B+TypeScript;Testes+manuais%2C+E2E+e+de+API;Pr%C3%B3ximo+passo%3A+testes+de+seguran%C3%A7a" alt="QA · Automação de testes · Playwright + TypeScript · Próximo passo: testes de segurança" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=2EAD33&center=true&vCenter=true&width=520&lines=Quality+Assurance+%C2%B7+Automa%C3%A7%C3%A3o+de+testes;Playwright+%2B+TypeScript;Testes+manuais%2C+E2E+e+de+API" alt="QA · Automação de testes · Playwright + TypeScript · Testes manuais, E2E e de API" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-evaristo-71a727216/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galvaoevaristo@gmail.com)
